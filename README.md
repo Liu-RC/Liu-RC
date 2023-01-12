@@ -8,7 +8,7 @@
 
 - I'am a computer science and technology undergraduate student, I studied at HBFS University.
 - This is [my blog](http://www.loveggh.top). I will share some of my study notes aboves.
-- If you want to reach me，my email is 3206945784@qq.com
+- If you want to reach me，my email is rcayh@qq.com
 
 ### 🛠 技术栈 | Tech Stack
 
