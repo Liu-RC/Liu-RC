@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://lrcimage-1305287351.cos.ap-chengdu.myqcloud.com/img%2F202301132049043.gif" />
+<img align="right" alt="GIF" src="[https://lrcimage-1305287351.cos.ap-chengdu.myqcloud.com/img%2F202301132049043.gif](https://lrcimage-1305287351.cos.ap-chengdu.myqcloud.com/img%2F202301132049043.gif)" />
 
 ### I'm Liu RC
 
