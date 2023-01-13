@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="http://dl.weshineapp.com/gif/20160513/f57b53c985891616f1352a097d606e1e.gif?id=f57b53c985891616f1352a097d606e1e" />
+<img align="right" alt="GIF" width="480px" height="320px" src="http://dl.weshineapp.com/gif/20160513/f57b53c985891616f1352a097d606e1e.gif?id=f57b53c985891616f1352a097d606e1e" />
 
 ### I'm Liu RC
 
