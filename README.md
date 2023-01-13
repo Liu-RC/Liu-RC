@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://lrcimage-1305287351.cos.ap-chengdu.myqcloud.com/img%2F202301132049043.gif)" />
 
 ### I'm Liu RC
 
@@ -22,4 +22,4 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [暂时木有]()
+
